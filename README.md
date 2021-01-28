@@ -1,7 +1,7 @@
 # MazeVR3D
 This will be my 4th project in Game Dev. It will be a 3D Maze game in VR. Further info will be given after
 
-Game plot :
+# Game plot :
 The events of the game occur in a town called "Casanegra". Every year, they take a young child, and get him into the "maze of chaos".
 As a tradition,he needs to prove to the inhabitants that he deserves !
 
